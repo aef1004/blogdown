@@ -1,0 +1,39 @@
+---
+title: "Outreach"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Graduate Women in Science Outreach Committee
+
+Currently, I serve as the Graduate Women in Science Outreach Committee Co-Chair at Colorado State University. The outreach committee started in 2017 with the goal to engage community members to teach them about STEM-related topics.
+
+In April 2018 I helped facilitate a Crime Scene Activity with Brownies where we 
+
+- Discussed how microbes can be used to determine the time of death of a body
+- Participated in a microbial clock activity to determine time of death based on different microbes (candy) present
+
+In May 2018, I helped Junior receive their Animal Habitats Badge when we 
+
+- Discussed different animal habitats and how soil is a habitat as well
+- Dissected and sorted a soil core into soil, animals, and decomposing material
+- Played a food web game to learn about the interconnectedness of ecosystems
+
+# Science Olympiad
+
+In Fall 2017, I co-coached two Science Olympiad Classes at Preston Middle School: Potions & Poisons and Crimebusters for a few hours every Tuesday afternoon after school.
+
+# Brain Awareness Week
+
+I was trained to facilitate Brain Awareness Week activities in local middle and high schools. I presented a poster on visual perception at Lincoln Middle School to about 40 students. 
+
+# Mentoring at Baylor College of Medicine
+
+I have trained new researchers in different wet lab techniques. I worked with a high school student and taught her how to perform western blots on serum samples. Additionally, I taught a PhD student how to optimize and runa series of ELISAs to determine if pigs develop antibodies against tick saliva.
+
+# Volunteers Around the World
+
+On a medical outreach trip, I was a part of 20 volunteers that set up clinics in plazas in Cusco, Peru. We fund-raised money for medicine before the trip, and once there, performed triage, assisted doctors, and provided free medicine to nearly 200 people who came through the clinic each day.
