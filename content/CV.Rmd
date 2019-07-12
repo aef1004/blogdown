@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![i](/CV1.png)
-![i](/CV2.png)
-![i](/CV3.png)
+![i](/CV1_small.png)
+![i](/CV2_small.png)
+![i](/CV3_small2.png)
 
 
