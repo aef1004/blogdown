@@ -25,7 +25,7 @@ The full paper can be found [here](https://www.researchgate.net/publication/3156
 # Baylor College of Medicine
 ## Research Intern
 
-![](/BCG.jpg)
+![](/BCM.jpg)
 
 Dr. Job Lopez's Laboratory for Vector Biology and Bacterial Pathogens focuses on mammalian exposure to relapsing fever transmitted primarily by soft ticks as well as deciphering mechanisms of tick colonization and transmission of spirochetes.  Tick-borne relapsing fever (TBRF) is endemic worldwide, but due to its non-specific symptoms is often misdiagnosed and under-reported leading to very little research being performed. 
  
@@ -61,7 +61,7 @@ My work at Windy Cove gave me my first insight into working at a private company
 # Rice University Institute for Bioscience and Bioengineering
 ## Administrative Assistant
 
-![](/rice-ibb-logo.jpg)
+![](/Rice_tiny.png)
 
 Rice's Institute for Biosciences and Bioengineering (IBB) Special Projects Director, Stacey Kalovidouris, administers the NIH T32 Cancer Nanotechnology Program between M.D. Anderson Cancer Center and Rice University, as well as organizes Rice's Responsible Conduct of Research Course.
  
