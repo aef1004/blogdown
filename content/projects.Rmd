@@ -9,23 +9,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lace Tension-Controlled Compression Sock
 
+
+![](/Thrombos_This_Team_Pic.jpg)
+
+At Rice University, my senior design team developed an adjustable compression sock that is easier to don and doff.  Chronic venous disorders (CVDs) affect 40% of the U.S. population, or 128 million people, in the United States alone. Out of the patients who are prescribed medical-grade compression socks, 63% do not wear them daily, because they are difficult to put on and uncomfortable to wear. Our goal was to develop a durable, comfortable compression sock that can be easily donned and delivers the necessary amount of pressure to mitigate the effects of CVD and reduce patient noncompliance. Our technology utilizes a clutch reel and corset-lacing so that it is easily wearable, comfortable, and delivers the necessary pressure. We obtained IRB approval and tested our compression sock on patients from 50-60 years old. We received many awards through presenting our design at many showcases and poster presentations, and ultimately submitted a patent for our design.
+
 The patent can be found [here](https://patents.justia.com/patent/20180303677)
 
 # An Experimental Evaluation of Gar Scale Arrow Points
 
-I not only gained valuable research skills while working at the Baylor lab, but also at Rice while working on a project in another, unrelated field. It has been speculated that gar scales could have been used as arrow points in the Stone Age, especially in lithic-poor areas. I explored the usage and feasibility of gar scales as potential arrow points. I predicted that gar scales are feasible arrows point, and most will not break when used. To test this hypothesis, I shot a series of gar scale arrow points at an animal carcass using a calibrated cross bow. Based on my observations that the majority of the gar scales did not break and the fractures that did ensue usually occurred on the points with very thin serrated edges, my results can aid in the identification of potential alligator gar scale arrows at archeological sites. Through this project, I learned how to perform extensive literature searches on a neglected subject, execute a research project, and I wrote a paper that has been accepted in the Journal of Houston Archeological Society.
+It has been speculated that gar scales could have been used as arrow points in the Stone Age, especially in lithic-poor areas. I explored the usage and feasibility of gar scales as potential arrow points. I predicted that gar scales are feasible arrows point, and most will not break when used. To test this hypothesis, I shot a series of gar scale arrow points at an animal carcass using a calibrated cross bow. Based on my observations that the majority of the gar scales did not break and the fractures that did ensue usually occurred on the points with very thin serrated edges, my results can aid in the identification of potential alligator gar scale arrows at archeological sites. Through this project, I learned how to perform extensive literature searches on a neglected subject, execute a research project, and I wrote a paper that was published in the Journal of Houston Archeological Society.
 
 The full paper can be found [here](https://www.researchgate.net/publication/315665515_AN_EXPERIMENTAL_EVALUATION_OF_GAR_SCALE_ARROW_POINTS)
 
 # Baylor College of Medicine
 ## Research Intern
 
+![](/BCG.jpg)
+
 Dr. Job Lopez's Laboratory for Vector Biology and Bacterial Pathogens focuses on mammalian exposure to relapsing fever transmitted primarily by soft ticks as well as deciphering mechanisms of tick colonization and transmission of spirochetes.  Tick-borne relapsing fever (TBRF) is endemic worldwide, but due to its non-specific symptoms is often misdiagnosed and under-reported leading to very little research being performed. 
  
 My major responsibilities in the lab included
-Dissecting ticks to extract their salivary glands
-Running western blots, ELISA's and PCR on blood samples
-Optimizing ELISA's for use in a prevalence study of murine exposure to Borrelia
+
+- Dissecting ticks to extract their salivary glands
+- Running western blots, ELISA's and PCR on blood samples
+- Optimizing ELISA's for use in a prevalence study of murine exposure to Borrelia
  
 **Nicaragua Project** 
 Our lab also collaborated with colleagues who traveled to Nicaragua to investigate kidney disease in sugar cane workers. They examined the microbiome of rodent kidneys and found Borrelia in 13 animal samples. Due to the sheer volume of samples, we decided that ELISAs would be a more time effective way of screening the samples than Western blots. I was responsible for optimizing the ELISAs and determining the best coating, primary, and secondary concentrations. We assessed the animal samples to look at the prevalence of relapsing fever Borrelia in Nicaragua and attempted to define the disease burden of TBRF Borrelia. I performed ELISAs on over 300 rodent samples to determine if they had antibodies against Borrelia. I then ran Western blots on the positive ELISA samples to confirm that they were seropositive for TBRF Borrelia. Realizing the results were inconsistent, I retested some of the known positive samples and determined that they had degraded after spending two years in the freezer. My curiosity helped prevent erroneous data from being incorporated into our work, and I learned the importance of sample preservation standards and quality control for good experimental design. At Baylor College of Medicine, I also gained knowledge of multiple fundamental techniques for microbiology research.
@@ -33,8 +41,12 @@ Our lab also collaborated with colleagues who traveled to Nicaragua to investiga
 **Panama Project** 
 My work in Dr. Job Lopez’s Laboratory for Vector Biology and Bacterial Pathogens at Baylor College of Medicine has both kindled my interest in microbiology and infectious diseases and allowed me to collaborate with researchers from different countries, another one of my aspirations.  TBRF had previously been diagnosed in Panama, but it was unclear if the pathogen was still circulating.  I ran western blots on 120 different synanthropic mammal serum samples from Panama to evaluate the serological response to relapsing fever Borrelia antigens. We concluded that ticks feed on and are able to transmit Borrelia to many different mammals, and synanthropic mammal samples such as opossums and coyotes should be included in future field studies. I am a co-author of a paper, “Synanthropic Mammals as Potential Hosts for Tick-borne Pathogens in Panama”, which discusses this work in Plos One.
 
+The paper can be found [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169047)
+
 # Windy Cove Energy
 ## Summer Intern
+
+![](/Windy_Cove.jpeg)
 
 Windy Cove Energy is an oil company that focuses on the acquisition and development of CO2 floodable oil fields in West Texas.  Currently operating more than 26,000 acres in Texas, they are primarily interested in the implementation of horizontal drilling which lowers energy costs to consumers, makes the US less dependent on foreign oil, and helps power the economy.
  
@@ -49,6 +61,8 @@ My work at Windy Cove gave me my first insight into working at a private company
 # Rice University Institute for Bioscience and Bioengineering
 ## Administrative Assistant
 
+![](/rice-ibb-logo.jpg)
+
 Rice's Institute for Biosciences and Bioengineering (IBB) Special Projects Director, Stacey Kalovidouris, administers the NIH T32 Cancer Nanotechnology Program between M.D. Anderson Cancer Center and Rice University, as well as organizes Rice's Responsible Conduct of Research Course.
  
 My responsibilities included
@@ -60,6 +74,8 @@ Through my work assisting in initiatives that facilitate cross- disciplinary res
 
 # Duke Talent Identification Program
 ## Residential Counselor
+
+![](/Duke_TIP.png)
 
 Students who receive top scores at their grade level on the ACT or SAT in 7th grade are invited to Residential Summer Studies programs through Duke University to delve into advanced topics and stretch their intellectual abilities.  These gifted and talented students are encouraged to explore fields on interest and develop their critical thinking and creative skills in a fun learning environment over the course of the summer.
  

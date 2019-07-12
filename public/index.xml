@@ -53,14 +53,23 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
       <title>Outreach</title>
       <link>/outreach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/outreach/</guid>
       <description>Graduate Women in Science Outreach Committee Currently, I serve as the Graduate Women in Science Outreach Committee Co-Chair at Colorado State University. The outreach committee started in 2017 with the goal to engage community members to teach them about STEM-related topics.
-In April 2018 I helped facilitate a Crime Scene Activity with Brownies where we
- Discussed how microbes can be used to determine the time of death of a body Participated in a microbial clock activity to determine time of death based on different microbes (candy) present  In May 2018, I helped Junior receive their Animal Habitats Badge when we</description>
+I helped facilitate a Crime Scene Activity with Brownies where we
+ Discussed how microbes can be used to determine the time of death of a body Participated in a microbial clock activity to determine time of death based on different microbes (candy) present  I helped Junior receive their Animal Habitats Badge when we</description>
     </item>
     
     <item>
@@ -69,8 +78,7 @@ In April 2018 I helped facilitate a Crime Scene Activity with Brownies where we
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Lace Tension-Controlled Compression Sock The patent can be found here
- An Experimental Evaluation of Gar Scale Arrow Points I not only gained valuable research skills while working at the Baylor lab, but also at Rice while working on a project in another, unrelated field. It has been speculated that gar scales could have been used as arrow points in the Stone Age, especially in lithic-poor areas. I explored the usage and feasibility of gar scales as potential arrow points.</description>
+      <description>Lace Tension-Controlled Compression Sock  At Rice University, my senior design team developed an adjustable compression sock that is easier to don and doff. Chronic venous disorders (CVDs) affect 40% of the U.S. population, or 128 million people, in the United States alone. Out of the patients who are prescribed medical-grade compression socks, 63% do not wear them daily, because they are difficult to put on and uncomfortable to wear.</description>
     </item>
     
   </channel>

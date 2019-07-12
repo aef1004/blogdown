@@ -1,0 +1,15 @@
+---
+title: "CV"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![i](/CV1.png)
+![i](/CV2.png)
+![i](/CV3.png)
+
+

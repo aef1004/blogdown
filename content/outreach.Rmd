@@ -11,12 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Currently, I serve as the Graduate Women in Science Outreach Committee Co-Chair at Colorado State University. The outreach committee started in 2017 with the goal to engage community members to teach them about STEM-related topics.
 
-In April 2018 I helped facilitate a Crime Scene Activity with Brownies where we 
+I helped facilitate a Crime Scene Activity with Brownies where we 
 
 - Discussed how microbes can be used to determine the time of death of a body
 - Participated in a microbial clock activity to determine time of death based on different microbes (candy) present
 
-In May 2018, I helped Junior receive their Animal Habitats Badge when we 
+I helped Junior receive their Animal Habitats Badge when we 
 
 - Discussed different animal habitats and how soil is a habitat as well
 - Dissected and sorted a soil core into soil, animals, and decomposing material
