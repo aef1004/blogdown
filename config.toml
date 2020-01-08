@@ -39,7 +39,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   
     # path to the favicon, under "static"
-    favicon = "favicon.png"
+    favicon = "logo2.png"
 
 
     [params.logo]
